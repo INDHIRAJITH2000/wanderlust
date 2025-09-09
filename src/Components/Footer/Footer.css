@@ -1,0 +1,22 @@
+.footerbar {
+  background-color:#ffffff;
+  padding: 23px;
+
+  text-transform: capitalize;
+}
+.footerbar p {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+hr {
+  opacity: 1!important;
+}
+.footer-social-icons a{
+ color: gray;
+ transition: 1s;
+}
+.footer-social-icons a:hover{
+ color: black;
+ rotate: -360deg;
+}
